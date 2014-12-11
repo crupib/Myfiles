@@ -1,0 +1,17 @@
+ Serial Console Server Connection Menu for your Master Terminal Server
+
+
+ 1 -                2 Port2            3 Port3            4 Port4
+ 5 ttwebdevl        6 ttweb1           7 ttdb1            8 ttdbdevl
+ 9 nyace1          10 -               11 -               12 nycldapdm2
+13 printrp         14 nycprintstage   15 nycprint        16 printstagesc1
+17 printprodsc1    18 nycdfort2       19 -               20 nycdfort4
+21 -               22 -               23 -               24 -
+25 -               26 -               27 -               28 -
+29 -               30 -               31 -               32 -
+33 -               34 printdevlsc2    35 printdevlsc1    36 nycsnmp1
+37 cvs2            38 nyccpman        39 ttweb2          40 ttdb2
+41 nyace2          42 printrs         43 nycdnsint2      44 cvs1
+45 timembp         46 Port46          47 timeqpsp        48 timedvd1
+
+ Type 'q' to quit, a valid option[1-48], or anything else to refresh :

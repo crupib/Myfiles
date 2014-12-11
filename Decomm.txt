@@ -1,0 +1,171 @@
+PNJAPAGOTV1                     Decommissioned, virtual
+PNJAPAGOTV2                     Decommissioned, virtual
+PNJAPAGOTV3                     Decommissioned, virtual
+PNJARCHERLAV1			Decommissioned, virtual
+PNJIRMPTV1			Decommissioned, virtual
+PNJIRMPTV2			Decommissioned, virtual
+PNJIRMPV1			Decommissioned, virtual   
+NYCSMCPROD			To be Decommissioned
+emagweb2			To be Decommissioned
+NYCLDAP1			To be Decommissioned
+NYCLDAP2			To be Decommissioned
+NYCSNMP1			To be Decommissioned
+EMAGWEB1			To be Decommissioned
+EMAGDB2				To be Decommissioned
+EMAGDB1				To be Decommissioned
+nycqiptv1			Decommissioned, virtual
+nycqiptv2			Decommissioned, virtual
+nycrheltest5v2			Decommissioned, virtual
+nycrhstllsv1                    Decommissioned, virtual 
+nycsatclav2			Decommissioned, virtual
+nycsatclav1			Decommissioned, virtual
+newnycqiplv1			Decommissioned, virtual
+nycamv1				Decommissioned, virtual
+PNJSIPHOTO1			To be Decommissioned
+NYCPSAPPD1			To be Decommissioned, shutdown
+NYCPSDBD1			To be Decommissioned, shutdown
+NYCPSAPPD2			To be Decommissioned, shutdown
+NYCPSDBD2			To be Decommissioned, shutdown
+NYCPSDBD3			To be Decommissioned, shutdown
+
+PNJEDBLA2  	                In use
+PNJGNSLVA1			In use, virtual
+PNJGNILVA1			In use, virtual
+PNJPRINTRB			In use
+PNJITAPP1			In use
+nyccoreclav1			In use, virtual
+nycopslav2			In use, virtual
+nycopslva1			In use, virtual
+nycwikilva1			In use, virtual
+PSYDNSINTCLA1			In use
+PSYDNSINTCLA2			In use
+
+PNJOPS1				Left in Parsippany
+PNJMON				Left in Parsippany
+PNJBACKUP1                      Left in Parsippany
+PNJMON				Left in Parsippany
+PNJBACKUP1                      Left in Parsippany
+PNJSDESKP			Left in Parsippany
+PNJTTDR				Left in Parsippany 
+
+esx2				To be left in 1271
+esx1				To be left in 1271
+NYCPSAPP5			Decommissioned, location unknown, email sent to finance.
+nycfindb1			Decommissioned, location unknown, email sent to Finance
+nycfindb2			Decommissioned, location unknown, email sent to Finance
+PNJAUTHP1			De-racked, in Weehawken,Drives removed email sent to Finance
+
+NYCASRCXA1
+nycitapp1
+nycitapp2
+TTDBDEVL			Decommissioned, 1271, email sent to finance.
+CVS1*				To be left in 1271 
+CVS2*                           To be left in 1271  
+NYCCPMAN                        Decommissioned, 1271 email sent to finace.
+IPMGTP1
+UNIXTEST9
+UNIXTEST6
+  
+PNJOPUSDEVL 			To be decommissioned
+PNJOSETESTV3			 virtual
+PNJSIPHOTOV1
+
+pnjunixtest1
+PNJXINETDR
+nycrsatv2			 virtual
+nycipappclav2			 virtual
+nycwfwebvtmpl			 virtual
+rhel5adminv1
+rheldnstestv1
+rheldnstestv2
+rheltest5v1
+rheltest6v1
+RHEL58_64			 virtual, powered off
+rhel64_dmz_template
+rhel64_template
+rhel65_template
+pnjaimtv1			 virtual, powered off
+
+Physical servers 1271 HP, DELL, SUN, ?
+All maybes some could be virtual
+
+nycrsatv2
+nycamv1				 virtual
+nycipappclav2			 virtual
+nycrheltest5v2			 virtual
+nycrhstllsv1			 virtual
+nycsatclav2			 virtual
+nycwfwebvtmpl			 virtual
+rhel5adminv1			 virtual
+rheldnstestv1			 virtual
+rheldnstestv2			 virtual
+rheltest5v1			 virtual
+rheltest6v1			 virtual
+nycsatclav1			 virtual
+nycamv2				 virtual, to be decommissioned
+NYCDEGMU3
+NYCDNSEXT1
+NYCDNSEXT2
+NYCPSCMA13
+NYCOPSMCLA102
+NYCOPSMCLA101
+nycpsappt2
+nycpsappt1
+nycpsdbt2
+nycpsdbt1
+esx2
+esx1
+NYCASRCXA1
+NYCINBOX2
+nycitapp1
+nycitapp2
+nycpeexa1
+nycmacadm07
+degnyclanrev.com
+degnyclanrevSD
+nyctmpxu1
+nycmacadm05
+nycmacadm04
+nycmacadm03
+nycmacadm02
+nycmacadm01
+UNIXTEST9
+NYCPSAPP5
+NYCFINDB1
+UNIXTEST6
+NYCSMCPROD
+NYCFINDB2
+emagweb2
+NYCPSAPPD1
+NYCPSDBD1
+NYCPSAPPD2
+NYCPSDBD2
+NYCPSDBD3
+EMAGWEB1
+EMAGDB2
+NYCLDAP1
+NYCLDAP2
+EMAGDB1
+TTDBDEVL
+CVS1
+CVS2
+NYCCPMAN
+NYCSNMP1
+IPMGTP1
+nycsipmcla101
+nyclnsint2
+nycsipmcla102
+nycnbvmmedia1
+NYCCTXWIMA3
+NYCCTXSQLMU2
+NYCCTXWIMA4
+NYCFDCMA2
+NYCFDCMA
+NYCPEEMU1		 To be decommissioned, Windows box
+NYCSYGMU4
+NYCMERLINMA2
+
+
+
+
+
